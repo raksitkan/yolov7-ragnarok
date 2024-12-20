@@ -40,7 +40,7 @@
 1. คัดลอกโปรเจกต์นี้:
 
    ```bash
-   git clone https://github.com/yourusername/yolov7-ragnarok.git
+   git clone https://github.com/raksitkan/yolov7-ragnarok.git
    cd yolov7-ragnarok
    ```
 
